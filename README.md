@@ -91,7 +91,10 @@
 
 <br/>  
 
-
+<div align="center">
+<img src="https://github.com/dishit2141/Notyblog/blob/main/static/grid_snake.svg" align="center" style="width: 100%" />
+</div>  
+  
 
 <br/>  
 
