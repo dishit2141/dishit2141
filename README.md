@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/dishit2141/Notyblog/blob/main/static/grid-snake.svg" align="center" style="width: 100%" />
+<img src="https://github.com/dishit2141/Notyblog/blob/main/static/coder.svg" align="center" style="width: 100%" />
 </div>  
   
 
