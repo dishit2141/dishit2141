@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Dishit, a full-time Learner 👨‍💻 pursuing Master in  Computer Application🚀</div>  
+### <div align="center">I'm Dishit, a full-time Learner 👨‍💻 Software developer🚀</div>  
   
 
 - 🔭Exploring new technologies and developing software solutions and quick hacks.  
