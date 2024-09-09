@@ -9,7 +9,7 @@
 - 🔭Exploring new technologies and developing software solutions and quick hacks.  
   
 
-- 🌱 I’m currently learning DataScience with ML.  
+- 🌱 I’m currently learning/Working on Data minning,Crawling tools like Document Crawler, Web Crawler etc.
   
 
 - ⚡ Quote: “The beginning is the most important part of the work.” — Plato 
